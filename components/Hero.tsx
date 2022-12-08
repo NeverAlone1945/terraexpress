@@ -72,14 +72,15 @@ export default function Hero() {
       {showModal ? (
         <>
           <div className="justify-center items-center flex overflow-x-hidden overflow-y-auto fixed inset-0 z-50 outline-none focus:outline-none">
-            <div className="relative w-auto my-6 mx-auto max-w-6xl">
+            <div className="relative lg:w-8/12 md:w-10/12 w-full">
               {/*content*/}
               <div className="border-0 rounded-lg shadow-lg relative flex flex-col w-full bg-white outline-none focus:outline-none">
                 {/*body*/}
                 <div className="relative p-1 flex-auto">
                   <iframe
-                    width="960"
-                    height="540"
+                    // width="960"
+                    // height="540"
+                    className="w-full aspect-video"
                     src="https://www.youtube.com/embed/OM-Y9H0YV-I?autoplay=1"
                     title="YouTube video player"
                     frameBorder="0"

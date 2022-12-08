@@ -157,7 +157,6 @@ export default function Content() {
           alt="Terra Express Logo"
           width="276"
           height="71"
-          priority
           className="mx-auto"
         />
         <h1 className="mt-5 text-2xl md:text-3xl font-semibold text-white text-center px-2">
