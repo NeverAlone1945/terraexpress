@@ -10,7 +10,7 @@ export default function Header() {
       />
       <meta
         name="keywords"
-        content="software ekspedisi, software logistik, aplikasi ekspedisi, aplikasi logistik, aplikasi pengiriman barang, aplikasi tracking pengiriman, software, aplikasi, ekspedisi, logistik"
+        content="terra express, software management ekspedisi, software ekspedisi terjangkau, software ekspedisi, software logistik, aplikasi ekspedisi, aplikasi logistik, aplikasi pengiriman barang, aplikasi tracking pengiriman, software, aplikasi, ekspedisi, logistik"
       />
       <link rel="icon" href="/image/icon-bw.png" />
     </Head>

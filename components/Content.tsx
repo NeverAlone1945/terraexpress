@@ -9,9 +9,9 @@ export default function Content() {
         {/* Solusi */}
         <div className="mt-10 lg:mt-14">
           <div className="text-center mb-5">
-            <h1 className="text-2xl md:text-3xl font-semibold">
+            <h2 className="text-2xl md:text-3xl font-semibold">
               Kami Memberikan Solusi
-            </h1>
+            </h2>
           </div>
           <div className="p-5 grid grid-cols-1 sm:grid-cols-1 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-3 gap-5">
             <div className="text-center">
@@ -81,9 +81,9 @@ export default function Content() {
             />
           </div>
           <div className="self-center">
-            <h1 className="text-2xl md:text-3xl font-bold">
+            <h2 className="text-2xl md:text-3xl font-bold">
               Bekerja lebih produktif dengan fitur andalan kami
-            </h1>
+            </h2>
             <div className="mt-4">
               <div className="mt-2">
                 <div className="flex items-center">
@@ -159,13 +159,13 @@ export default function Content() {
           height="71"
           className="mx-auto"
         />
-        <h1 className="mt-5 text-2xl md:text-3xl font-semibold text-white text-center px-2">
+        <h2 className="mt-5 text-2xl md:text-3xl font-semibold text-white text-center px-2">
           Siap untuk maju bersama kami?
-        </h1>
-        <h2 className="mt-3 text-xl md:text-2xl font-medium text-white text-center px-2">
+        </h2>
+        <h3 className="mt-3 text-xl md:text-2xl font-medium text-white text-center px-2">
           Jadwalkan sesi demo dan konsultasikan kebutuhan Anda langsung dengan
           kami
-        </h2>
+        </h3>
         <a
           href="https://wa.me/6283877888303?text=Halo%2C%0ASaya%20tertarik%20dengan%20Software%20Ekspedisi%20dari%20Terra%20Ekspress%20dan%20ingin%20mendapatkan%20demo%20bagaimana%20Software%20tersebut%20bekerja"
           target="_blank"
